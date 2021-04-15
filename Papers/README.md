@@ -1,6 +1,7 @@
 ## 目录
 
 #### 1. LeNet
+https://ieeexplore.ieee.org/document/726791
 #### 2. AlexNet
 #### 3. VGGNet
 #### 4. GooLeNet (Inception v1)
